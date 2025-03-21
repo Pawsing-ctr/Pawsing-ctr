@@ -25,11 +25,6 @@ I am a Frontend Developer from Russian :ru:
 
 ----
 
-![Snake animation](https://github.com/Pawsing-ctr/Pawsing-ctr/blob/main/.github/workflows/snake.yml)
-
----
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawsing-ctr&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
