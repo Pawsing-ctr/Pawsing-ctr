@@ -25,7 +25,7 @@ I am a Frontend Developer from Russian :ru:
 
 ----
 
-![Snake animation](https://github.com/Pawsing-ctr/Pawsing-ctr/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Pawsing-ctr/Pawsing-ctr/blob/main/github-contribution-grid-snake.svg)
 
 ---
 
